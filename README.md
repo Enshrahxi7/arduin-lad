@@ -14,6 +14,9 @@ Breadboard and Jumper Wires
  • When a push button is pressed, the corresponding LED lights up.
  • When the button is released, the LED turns off.
 This setup provides a simple demonstration of digital input and output with Arduino.
-[Tinkercad][(https://www.tinkercad.com/things/0Mk0cbzIc3P-circuit-diagram-/editel?sharecode=1I5kuqDZRbu_2xuf4BGmro022qV2OoLJVdup3mWAEcE)
+
+# Project Link
+[Tinkercad](https://www.tinkercad.com/things/0Mk0cbzIc3P-circuit-diagram-/editel?sharecode=1I5kuqDZRbu_2xuf4BGmro022qV2OoLJVdup3mWAEcE)
+
 # ciecuit diagram
 ![circuit](circuit.jpg)

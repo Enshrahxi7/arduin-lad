@@ -16,4 +16,4 @@ Breadboard and Jumper Wires
 This setup provides a simple demonstration of digital input and output with Arduino.
 
 # ciecuit diagram
-[![circuit](circuit.jpg)
+![circuit](circuit.jpg)
